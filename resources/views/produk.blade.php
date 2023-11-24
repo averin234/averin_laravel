@@ -115,6 +115,20 @@ https://templatemo.com/tm-562-space-dynamic
     </div>
   </header>
   <!-- ***** Header Area End ***** -->
+  <div class="wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            <div class="col-lg-6 align-self-center">
+              <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div id="portfolio" class="our-portfolio section" style="margin-top: 50px;">
     <div class="container">
     <div class="row">
